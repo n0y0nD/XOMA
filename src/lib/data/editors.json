@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "1",
+    "name": "Rahul Das",
+    "role": "YouTube Video Editor",
+    "rate": 800,
+    "rating": 4.8,
+    "reviewCount": 23,
+    "available": false,
+    "skills": ["YouTube", "Color Grading", "Motion Graphics", "Premiere Pro"],
+    "bio": "Been editing YouTube videos for about 5 years now, mostly tech and gaming stuff. I'm pretty obsessive about pacing — I genuinely watch the final cut like 10 times before sending it. Not taking new clients right now but drop a message and I'll let you know when I'm free.",
+    "createdAt": "2024-01-01",
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "TechWithTim",
+        "rating": 5,
+        "comment": "Honestly didn't expect this level of quality at this price. Watch time on my last video jumped noticeably. Will book again for sure.",
+        "date": "2024-03-12"
+      },
+      {
+        "id": "r2",
+        "author": "GamingBeast",
+        "rating": 4,
+        "comment": "Good work, took a little longer than expected but the final result was worth it. Motion graphics were 🔥",
+        "date": "2024-02-28"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "name": "Niharika Roy",
+    "role": "Anime AMV Editor",
+    "rate": 500,
+    "rating": 4.9,
+    "reviewCount": 8,
+    "available": false,
+    "skills": ["AMV", "After Effects", "Anime", "Beat Sync"],
+    "bio": "I make AMVs. That's basically it lol. Started doing it for fun in 2021 and people started asking me to do paid ones, so here we are. I'm very picky about the source clips I use — bad footage is bad footage no matter how good the edit.",
+    "createdAt": "2024-02-01",
+    "reviews": [
+      {
+        "id": "r3",
+        "author": "AnimeOasis",
+        "rating": 5,
+        "comment": "The beat sync was literally perfect. I kept rewatching it. She also replied to my feedback super fast which I appreciated.",
+        "date": "2024-04-10"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "name": "Arnav Hazarika",
+    "role": "VFX & Reels Editor",
+    "rate": 1000,
+    "rating": 4.7,
+    "reviewCount": 17,
+    "available": true,
+    "skills": ["VFX", "Reels", "DaVinci Resolve", "After Effects", "Color Grading"],
+    "bio": "I do VFX and short-form content. DaVinci Resolve is basically my second home at this point. Can handle tight deadlines if you need — just tell me upfront. Also available for Instagram Reels brand deals if you need something that actually looks good and not like a Canva template.",
+    "createdAt": "2024-03-01",
+    "reviews": [
+      {
+        "id": "r4",
+        "author": "BrandX",
+        "rating": 5,
+        "comment": "Delivered faster than I expected and the VFX were cleaner than what I've seen from much more expensive editors. Genuinely impressed.",
+        "date": "2024-04-05"
+      },
+      {
+        "id": "r5",
+        "author": "CreatorHub",
+        "rating": 4,
+        "comment": "Solid work. Had one round of revisions and he handled it without any fuss. Would hire again.",
+        "date": "2024-03-22"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "name": "Priya Sharma",
+    "role": "Wedding & Event Editor",
+    "rate": 600,
+    "rating": 4.6,
+    "reviewCount": 11,
+    "available": true,
+    "skills": ["Wedding Films", "Cinematic", "Premiere Pro", "Color Grading"],
+    "bio": "I've been doing wedding films for 3 years and honestly each one feels different. I always spend a lot of time picking the right music — that part matters more than people think. If you're the kind of client who micromanages every cut, we probably won't be a great fit lol. But if you trust me with your vision, I'll make something you'll actually watch more than once.",
+    "createdAt": "2024-04-01"
+  },
+  {
+    "_id": "5",
+    "name": "Deepak Bora",
+    "role": "Gaming Content Editor",
+    "rate": 450,
+    "rating": 4.5,
+    "reviewCount": 14,
+    "available": false,
+    "skills": ["Gaming", "Montage", "Twitch", "YouTube"],
+    "bio": "I edit gaming content and I'm also a gamer, so I actually get what looks cool vs. what just looks like random clips. Mostly do montages and stream highlights. Not the cheapest but I don't rush — every transition is intentional. Currently booked but checking back in a couple weeks.",
+    "createdAt": "2024-05-01"
+  },
+  {
+    "_id": "6",
+    "name": "Ankita Dev",
+    "role": "Reels & Shorts Specialist",
+    "rate": 350,
+    "rating": 4.8,
+    "reviewCount": 31,
+    "available": true,
+    "skills": ["Reels", "Shorts", "CapCut", "Trending Audio"],
+    "bio": "Reels and Shorts are what I do, and I stay on top of what's actually trending (not 2 weeks late like some editors). Fast turnaround — usually 24–48 hrs for a single reel. I can batch edit too if you have a backlog. DM me before placing an order if you want to discuss the vibe first.",
+    "createdAt": "2024-06-01"
+  }
+]
